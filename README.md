@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I am Sakshi Pingale . 2nd year Computer science student .    
+I am Sakshi Pingale . 3rd year Computer science student .    
   
 
 <br/>  
@@ -18,14 +18,11 @@ I am Sakshi Pingale . 2nd year Computer science student .
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Javascript  
+- 🔭 I’m currently working on Cyber Security  
   
 
 - 🌱 I’m currently learning Git and GitHub  
-  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
