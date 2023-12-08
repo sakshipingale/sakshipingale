@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I am Sakshi Pingale . 3rd year Computer science student .    
+I am Sakshi Pingale. Final year Computer Engineering Student .    
   
 
 <br/>  
@@ -18,7 +18,7 @@ I am Sakshi Pingale . 3rd year Computer science student .
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Cyber Security  
+- 🔭 I’m currently working on Python, SQL, HTML, CSS, Bootstrap, Django  
   
 
 - 🌱 I’m currently learning Git and GitHub  
